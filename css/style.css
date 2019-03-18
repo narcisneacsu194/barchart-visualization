@@ -1,0 +1,15 @@
+#chart-area svg {
+	margin-left: auto;
+	margin-right: auto;
+    display: block;
+}
+
+#title{
+  font-size: 2.5em;
+  font-family: 'Roboto';
+  text-align: center;
+}
+
+rect:hover{
+  fill: #fff;
+}
